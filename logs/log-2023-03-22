@@ -1,0 +1,167 @@
+INFO:root: 2023-03-22 12:04:30 > Directory deletion: /media/jevi/D/Projects/folder-synchronizer/replica/belu/fake folder
+INFO:root: 2023-03-22 12:04:30 > Directory creation: /media/jevi/D/Projects/folder-synchronizer/replica/prueba
+INFO:root: 2023-03-22 12:04:30 > Directory creation: /media/jevi/D/Projects/folder-synchronizer/replica/testfolder/test_2
+INFO:root: 2023-03-22 12:04:30 > File creation: /media/jevi/D/Projects/folder-synchronizer/replica/belu/Belen Pozuelo
+INFO:root: 2023-03-22 12:04:30 > File creation: /media/jevi/D/Projects/folder-synchronizer/replica/testfolder/test_2/insidefile.py
+INFO:root: 2023-03-22 12:05:01 > Directory creation: /media/jevi/D/Projects/folder-synchronizer/replica/testfolder/test_2
+INFO:root: 2023-03-22 12:05:01 > File creation: /media/jevi/D/Projects/folder-synchronizer/replica/test
+INFO:root: 2023-03-22 12:05:01 > File creation: /media/jevi/D/Projects/folder-synchronizer/replica/testfolder/test_2/insidefile.py
+INFO:root: 2023-03-22 12:05:11 > File deletion: /media/jevi/D/Projects/folder-synchronizer/replica/test
+INFO:root: 2023-03-22 12:05:47 > Directory creation: /media/jevi/D/Projects/folder-synchronizer/replica/folder_new
+INFO:root: 2023-03-22 12:05:47 > File creation: /media/jevi/D/Projects/folder-synchronizer/replica/folder_new/file_new
+INFO:root: 2023-03-22 12:09:34 > File deletion: /media/jevi/D/Projects/folder-synchronizer/replica/blockedtext.txt
+INFO:root: 2023-03-22 12:15:05 > File deletion: /media/jevi/D/Projects/folder-synchronizer/replica/blocked_test.txt
+INFO:root: 2023-03-22 12:15:05 > File creation: /media/jevi/D/Projects/folder-synchronizer/replica/testfile.txt
+INFO:root: 2023-03-22 12:29:17 > Directory deletion: /home/jevi/Desktop/replica/folder_new
+INFO:root: 2023-03-22 12:29:17 > Directory deletion: /home/jevi/Desktop/replica/belu
+INFO:root: 2023-03-22 12:29:17 > Directory deletion: /home/jevi/Desktop/replica/prueba
+INFO:root: 2023-03-22 12:29:17 > Directory deletion: /home/jevi/Desktop/replica/testfolder
+ERROR:root: 2023-03-22 12:29:17 > Directory warning: /home/jevi/Desktop/replica/testfolder/test_2
+INFO:root: 2023-03-22 12:29:17 > Directory creation: /home/jevi/Desktop/replica//belu
+INFO:root: 2023-03-22 12:29:17 > Directory creation: /home/jevi/Desktop/replica//folder_new
+INFO:root: 2023-03-22 12:29:17 > Directory creation: /home/jevi/Desktop/replica//prueba
+INFO:root: 2023-03-22 12:29:17 > Directory creation: /home/jevi/Desktop/replica//testfolder
+INFO:root: 2023-03-22 12:29:17 > Directory creation: /home/jevi/Desktop/replica//testfolder/test_2
+INFO:root: 2023-03-22 12:29:17 > File deletion: /home/jevi/Desktop/replica/text_test.txt
+ERROR:root: 2023-03-22 12:29:17 > File warning: /home/jevi/Desktop/replica/folder_new/file_new
+ERROR:root: 2023-03-22 12:29:17 > File warning: /home/jevi/Desktop/replica/belu/Belen Pozuelo
+ERROR:root: 2023-03-22 12:29:17 > File warning: /home/jevi/Desktop/replica/testfolder/inside_file.txt
+ERROR:root: 2023-03-22 12:29:17 > File warning: /home/jevi/Desktop/replica/testfolder/test_2/insidefile.py
+INFO:root: 2023-03-22 12:29:17 > File creation: /home/jevi/Desktop/replica//testfile.txt
+INFO:root: 2023-03-22 12:29:17 > File creation: /home/jevi/Desktop/replica//belu/Belen Pozuelo
+INFO:root: 2023-03-22 12:29:17 > File creation: /home/jevi/Desktop/replica//folder_new/file_new
+INFO:root: 2023-03-22 12:29:17 > File creation: /home/jevi/Desktop/replica//testfolder/inside_file.txt
+INFO:root: 2023-03-22 12:29:17 > File creation: /home/jevi/Desktop/replica//testfolder/test_2/insidefile.py
+INFO:root: 2023-03-22 12:29:27 > Directory deletion: /home/jevi/Desktop/replica/folder_new
+INFO:root: 2023-03-22 12:29:27 > Directory deletion: /home/jevi/Desktop/replica/belu
+INFO:root: 2023-03-22 12:29:27 > Directory deletion: /home/jevi/Desktop/replica/prueba
+INFO:root: 2023-03-22 12:29:27 > Directory deletion: /home/jevi/Desktop/replica/testfolder
+ERROR:root: 2023-03-22 12:29:27 > Directory warning: /home/jevi/Desktop/replica/testfolder/test_2
+INFO:root: 2023-03-22 12:29:27 > Directory creation: /home/jevi/Desktop/replica//belu
+INFO:root: 2023-03-22 12:29:27 > Directory creation: /home/jevi/Desktop/replica//folder_new
+INFO:root: 2023-03-22 12:29:27 > Directory creation: /home/jevi/Desktop/replica//prueba
+INFO:root: 2023-03-22 12:29:27 > Directory creation: /home/jevi/Desktop/replica//testfolder
+INFO:root: 2023-03-22 12:29:27 > Directory creation: /home/jevi/Desktop/replica//testfolder/test_2
+INFO:root: 2023-03-22 12:29:27 > File deletion: /home/jevi/Desktop/replica/testfile.txt
+ERROR:root: 2023-03-22 12:29:27 > File warning: /home/jevi/Desktop/replica/folder_new/file_new
+ERROR:root: 2023-03-22 12:29:27 > File warning: /home/jevi/Desktop/replica/belu/Belen Pozuelo
+ERROR:root: 2023-03-22 12:29:27 > File warning: /home/jevi/Desktop/replica/testfolder/inside_file.txt
+ERROR:root: 2023-03-22 12:29:27 > File warning: /home/jevi/Desktop/replica/testfolder/test_2/insidefile.py
+INFO:root: 2023-03-22 12:29:27 > File creation: /home/jevi/Desktop/replica//testfile.txt
+INFO:root: 2023-03-22 12:29:27 > File creation: /home/jevi/Desktop/replica//belu/Belen Pozuelo
+INFO:root: 2023-03-22 12:29:27 > File creation: /home/jevi/Desktop/replica//folder_new/file_new
+INFO:root: 2023-03-22 12:29:27 > File creation: /home/jevi/Desktop/replica//testfolder/inside_file.txt
+INFO:root: 2023-03-22 12:29:27 > File creation: /home/jevi/Desktop/replica//testfolder/test_2/insidefile.py
+INFO:root: 2023-03-22 12:29:37 > Directory deletion: /home/jevi/Desktop/replica/folder_new
+INFO:root: 2023-03-22 12:29:37 > Directory deletion: /home/jevi/Desktop/replica/belu
+INFO:root: 2023-03-22 12:29:37 > Directory deletion: /home/jevi/Desktop/replica/prueba
+INFO:root: 2023-03-22 12:29:37 > Directory deletion: /home/jevi/Desktop/replica/testfolder
+ERROR:root: 2023-03-22 12:29:37 > Directory warning: /home/jevi/Desktop/replica/testfolder/test_2
+INFO:root: 2023-03-22 12:29:37 > Directory creation: /home/jevi/Desktop/replica//belu
+INFO:root: 2023-03-22 12:29:37 > Directory creation: /home/jevi/Desktop/replica//folder_new
+INFO:root: 2023-03-22 12:29:37 > Directory creation: /home/jevi/Desktop/replica//prueba
+INFO:root: 2023-03-22 12:29:37 > Directory creation: /home/jevi/Desktop/replica//testfolder
+INFO:root: 2023-03-22 12:29:37 > Directory creation: /home/jevi/Desktop/replica//testfolder/test_2
+INFO:root: 2023-03-22 12:29:37 > File deletion: /home/jevi/Desktop/replica/testfile.txt
+ERROR:root: 2023-03-22 12:29:37 > File warning: /home/jevi/Desktop/replica/folder_new/file_new
+ERROR:root: 2023-03-22 12:29:37 > File warning: /home/jevi/Desktop/replica/belu/Belen Pozuelo
+ERROR:root: 2023-03-22 12:29:37 > File warning: /home/jevi/Desktop/replica/testfolder/inside_file.txt
+ERROR:root: 2023-03-22 12:29:37 > File warning: /home/jevi/Desktop/replica/testfolder/test_2/insidefile.py
+INFO:root: 2023-03-22 12:29:37 > File creation: /home/jevi/Desktop/replica//testfile.txt
+INFO:root: 2023-03-22 12:29:37 > File creation: /home/jevi/Desktop/replica//belu/Belen Pozuelo
+INFO:root: 2023-03-22 12:29:37 > File creation: /home/jevi/Desktop/replica//folder_new/file_new
+INFO:root: 2023-03-22 12:29:37 > File creation: /home/jevi/Desktop/replica//testfolder/inside_file.txt
+INFO:root: 2023-03-22 12:29:37 > File creation: /home/jevi/Desktop/replica//testfolder/test_2/insidefile.py
+INFO:root: 2023-03-22 12:29:47 > Directory deletion: /home/jevi/Desktop/replica/folder_new
+INFO:root: 2023-03-22 12:29:47 > Directory deletion: /home/jevi/Desktop/replica/belu
+INFO:root: 2023-03-22 12:29:47 > Directory deletion: /home/jevi/Desktop/replica/prueba
+INFO:root: 2023-03-22 12:29:47 > Directory deletion: /home/jevi/Desktop/replica/testfolder
+ERROR:root: 2023-03-22 12:29:47 > Directory warning: /home/jevi/Desktop/replica/testfolder/test_2
+INFO:root: 2023-03-22 12:29:47 > Directory creation: /home/jevi/Desktop/replica//belu
+INFO:root: 2023-03-22 12:29:47 > Directory creation: /home/jevi/Desktop/replica//folder_new
+INFO:root: 2023-03-22 12:29:47 > Directory creation: /home/jevi/Desktop/replica//prueba
+INFO:root: 2023-03-22 12:29:47 > Directory creation: /home/jevi/Desktop/replica//testfolder
+INFO:root: 2023-03-22 12:29:47 > Directory creation: /home/jevi/Desktop/replica//testfolder/test_2
+INFO:root: 2023-03-22 12:29:47 > File deletion: /home/jevi/Desktop/replica/testfile.txt
+ERROR:root: 2023-03-22 12:29:47 > File warning: /home/jevi/Desktop/replica/folder_new/file_new
+ERROR:root: 2023-03-22 12:29:47 > File warning: /home/jevi/Desktop/replica/belu/Belen Pozuelo
+ERROR:root: 2023-03-22 12:29:47 > File warning: /home/jevi/Desktop/replica/testfolder/inside_file.txt
+ERROR:root: 2023-03-22 12:29:47 > File warning: /home/jevi/Desktop/replica/testfolder/test_2/insidefile.py
+INFO:root: 2023-03-22 12:29:47 > File creation: /home/jevi/Desktop/replica//testfile.txt
+INFO:root: 2023-03-22 12:29:47 > File creation: /home/jevi/Desktop/replica//belu/Belen Pozuelo
+INFO:root: 2023-03-22 12:29:47 > File creation: /home/jevi/Desktop/replica//folder_new/file_new
+INFO:root: 2023-03-22 12:29:47 > File creation: /home/jevi/Desktop/replica//testfolder/inside_file.txt
+INFO:root: 2023-03-22 12:29:47 > File creation: /home/jevi/Desktop/replica//testfolder/test_2/insidefile.py
+INFO:root: 2023-03-22 12:29:57 > Directory deletion: /home/jevi/Desktop/replica/folder_new
+INFO:root: 2023-03-22 12:29:57 > Directory deletion: /home/jevi/Desktop/replica/belu
+INFO:root: 2023-03-22 12:29:57 > Directory deletion: /home/jevi/Desktop/replica/prueba
+INFO:root: 2023-03-22 12:29:57 > Directory deletion: /home/jevi/Desktop/replica/testfolder
+ERROR:root: 2023-03-22 12:29:57 > Directory warning: /home/jevi/Desktop/replica/testfolder/test_2
+INFO:root: 2023-03-22 12:29:57 > Directory creation: /home/jevi/Desktop/replica//belu
+INFO:root: 2023-03-22 12:29:57 > Directory creation: /home/jevi/Desktop/replica//folder_new
+INFO:root: 2023-03-22 12:29:57 > Directory creation: /home/jevi/Desktop/replica//prueba
+INFO:root: 2023-03-22 12:29:57 > Directory creation: /home/jevi/Desktop/replica//testfolder
+INFO:root: 2023-03-22 12:29:57 > Directory creation: /home/jevi/Desktop/replica//testfolder/test_2
+INFO:root: 2023-03-22 12:29:57 > File deletion: /home/jevi/Desktop/replica/testfile.txt
+ERROR:root: 2023-03-22 12:29:57 > File warning: /home/jevi/Desktop/replica/folder_new/file_new
+ERROR:root: 2023-03-22 12:29:57 > File warning: /home/jevi/Desktop/replica/belu/Belen Pozuelo
+ERROR:root: 2023-03-22 12:29:57 > File warning: /home/jevi/Desktop/replica/testfolder/inside_file.txt
+ERROR:root: 2023-03-22 12:29:57 > File warning: /home/jevi/Desktop/replica/testfolder/test_2/insidefile.py
+INFO:root: 2023-03-22 12:29:57 > File creation: /home/jevi/Desktop/replica//testfile.txt
+INFO:root: 2023-03-22 12:29:57 > File creation: /home/jevi/Desktop/replica//belu/Belen Pozuelo
+INFO:root: 2023-03-22 12:29:57 > File creation: /home/jevi/Desktop/replica//folder_new/file_new
+INFO:root: 2023-03-22 12:29:57 > File creation: /home/jevi/Desktop/replica//testfolder/inside_file.txt
+INFO:root: 2023-03-22 12:29:57 > File creation: /home/jevi/Desktop/replica//testfolder/test_2/insidefile.py
+INFO:root: 2023-03-22 12:30:07 > Directory deletion: /home/jevi/Desktop/replica/folder_new
+INFO:root: 2023-03-22 12:30:07 > Directory deletion: /home/jevi/Desktop/replica/belu
+INFO:root: 2023-03-22 12:30:07 > Directory deletion: /home/jevi/Desktop/replica/prueba
+INFO:root: 2023-03-22 12:30:07 > Directory deletion: /home/jevi/Desktop/replica/testfolder
+ERROR:root: 2023-03-22 12:30:07 > Directory warning: /home/jevi/Desktop/replica/testfolder/test_2
+INFO:root: 2023-03-22 12:30:07 > Directory creation: /home/jevi/Desktop/replica//belu
+INFO:root: 2023-03-22 12:30:07 > Directory creation: /home/jevi/Desktop/replica//folder_new
+INFO:root: 2023-03-22 12:30:07 > Directory creation: /home/jevi/Desktop/replica//prueba
+INFO:root: 2023-03-22 12:30:07 > Directory creation: /home/jevi/Desktop/replica//testfolder
+INFO:root: 2023-03-22 12:30:07 > Directory creation: /home/jevi/Desktop/replica//testfolder/test_2
+INFO:root: 2023-03-22 12:30:07 > File deletion: /home/jevi/Desktop/replica/testfile.txt
+ERROR:root: 2023-03-22 12:30:07 > File warning: /home/jevi/Desktop/replica/folder_new/file_new
+ERROR:root: 2023-03-22 12:30:07 > File warning: /home/jevi/Desktop/replica/belu/Belen Pozuelo
+ERROR:root: 2023-03-22 12:30:07 > File warning: /home/jevi/Desktop/replica/testfolder/inside_file.txt
+ERROR:root: 2023-03-22 12:30:07 > File warning: /home/jevi/Desktop/replica/testfolder/test_2/insidefile.py
+INFO:root: 2023-03-22 12:30:07 > File creation: /home/jevi/Desktop/replica//testfile.txt
+INFO:root: 2023-03-22 12:30:07 > File creation: /home/jevi/Desktop/replica//belu/Belen Pozuelo
+INFO:root: 2023-03-22 12:30:07 > File creation: /home/jevi/Desktop/replica//folder_new/file_new
+INFO:root: 2023-03-22 12:30:07 > File creation: /home/jevi/Desktop/replica//testfolder/inside_file.txt
+INFO:root: 2023-03-22 12:30:07 > File creation: /home/jevi/Desktop/replica//testfolder/test_2/insidefile.py
+INFO:root: 2023-03-22 12:30:17 > Directory deletion: /home/jevi/Desktop/replica/folder_new
+INFO:root: 2023-03-22 12:30:17 > Directory deletion: /home/jevi/Desktop/replica/belu
+INFO:root: 2023-03-22 12:30:17 > Directory deletion: /home/jevi/Desktop/replica/prueba
+INFO:root: 2023-03-22 12:30:17 > Directory deletion: /home/jevi/Desktop/replica/testfolder
+ERROR:root: 2023-03-22 12:30:17 > Directory warning: /home/jevi/Desktop/replica/testfolder/test_2
+INFO:root: 2023-03-22 12:30:17 > Directory creation: /home/jevi/Desktop/replica//belu
+INFO:root: 2023-03-22 12:30:17 > Directory creation: /home/jevi/Desktop/replica//folder_new
+INFO:root: 2023-03-22 12:30:17 > Directory creation: /home/jevi/Desktop/replica//prueba
+INFO:root: 2023-03-22 12:30:17 > Directory creation: /home/jevi/Desktop/replica//testfolder
+INFO:root: 2023-03-22 12:30:17 > Directory creation: /home/jevi/Desktop/replica//testfolder/test_2
+INFO:root: 2023-03-22 12:30:17 > File deletion: /home/jevi/Desktop/replica/testfile.txt
+ERROR:root: 2023-03-22 12:30:17 > File warning: /home/jevi/Desktop/replica/folder_new/file_new
+ERROR:root: 2023-03-22 12:30:17 > File warning: /home/jevi/Desktop/replica/belu/Belen Pozuelo
+ERROR:root: 2023-03-22 12:30:17 > File warning: /home/jevi/Desktop/replica/testfolder/inside_file.txt
+ERROR:root: 2023-03-22 12:30:17 > File warning: /home/jevi/Desktop/replica/testfolder/test_2/insidefile.py
+INFO:root: 2023-03-22 12:30:17 > File creation: /home/jevi/Desktop/replica//testfile.txt
+INFO:root: 2023-03-22 12:30:17 > File creation: /home/jevi/Desktop/replica//belu/Belen Pozuelo
+INFO:root: 2023-03-22 12:30:17 > File creation: /home/jevi/Desktop/replica//folder_new/file_new
+INFO:root: 2023-03-22 12:30:17 > File creation: /home/jevi/Desktop/replica//testfolder/inside_file.txt
+INFO:root: 2023-03-22 12:30:17 > File creation: /home/jevi/Desktop/replica//testfolder/test_2/insidefile.py
+INFO:root: 2023-03-22 12:33:24 > File deletion: /home/jevi/Desktop/replica/fakefile.txt
+INFO:root: 2023-03-22 12:42:48 > Directory creation: /media/jevi/D/Projects/folder-synchronizer/replica/folder_new
+INFO:root: 2023-03-22 12:42:48 > File deletion: /media/jevi/D/Projects/folder-synchronizer/replica/text_test.txt
+INFO:root: 2023-03-22 12:42:48 > File deletion: /media/jevi/D/Projects/folder-synchronizer/replica/prueba/fake_file.php
+INFO:root: 2023-03-22 12:42:48 > File creation: /media/jevi/D/Projects/folder-synchronizer/replica/testfile.txt
+INFO:root: 2023-03-22 12:42:48 > File creation: /media/jevi/D/Projects/folder-synchronizer/replica/folder_new/file_new
+INFO:root: 2023-03-22 12:43:08 > Directory creation: /media/jevi/D/Projects/folder-synchronizer/replica/new_on_the_go
+INFO:root: 2023-03-22 12:48:30 > Directory creation: /media/jevi/D/Projects/folder-synchronizer/replica/folder_new
+INFO:root: 2023-03-22 12:48:30 > File creation: /media/jevi/D/Projects/folder-synchronizer/replica/folder_new/file_new
+INFO:root: 2023-03-22 13:02:15 > Directory creation: /media/jevi/D/Projects/folder-synchronizer/replica/new_on_the_go
+INFO:root: 2023-03-22 13:02:19 > Directory creation: /media/jevi/D/Projects/folder-synchronizer/replica/folder_new
+INFO:root: 2023-03-22 13:02:19 > File creation: /media/jevi/D/Projects/folder-synchronizer/replica/folder_new/file_new
+INFO:root: 2023-03-22 13:02:35 > File deletion: /media/jevi/D/Projects/folder-synchronizer/replica/fasfas
